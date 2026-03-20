@@ -6,13 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=280&section=header&text=Amit%20Kumar&fontSize=80&fontColor=64ffda&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Microservices%20%E2%80%A2%20Open%20to%20Opportunities&descColor=8892b0&descSize=15&descAlignY=58&stroke=64ffda&strokeWidth=2" width="100%" alt="header"/>
 
-<!-- ========================================================== -->
-<!--   DARK-TRANSPARENT CODING GIF — BLENDS WITH DARK THEME     -->
-<!-- ========================================================== -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="coding gif"/>
-
-<!-- ========================================================== -->
+<!-- ==========================================================
 <!--   TYPING ANIMATION — CENTERED, CLEAN                       -->
 <!-- ========================================================== -->
 
