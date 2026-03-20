@@ -76,7 +76,7 @@ Status      : 🟢 Open to Exciting Opportunities
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" style="border-radius:12px" alt="developer gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="280" style="border-radius:12px" alt="developer gif"/>
 
 <br/>
 
