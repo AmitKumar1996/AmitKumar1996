@@ -1,34 +1,46 @@
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░  ANIMATED HEADER BANNER  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ========================================================== -->
+<!--   FULL-WIDTH ANIMATED WAVE HEADER — NO FLOATING ARTIFACTS  -->
+<!-- ========================================================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Amit%20Kumar&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Microservices&descColor=a0a0b0&descSize=17&descAlignY=58&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a192f,60:112240,100:0d1117&height=280&section=header&text=Amit%20Kumar&fontSize=80&fontColor=64ffda&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20Building%20Scalable%20Microservices%20%E2%80%A2%20Open%20to%20Opportunities&descColor=8892b0&descSize=15&descAlignY=58&stroke=64ffda&strokeWidth=2" width="100%" alt="header"/>
 
-<!-- ░░░░░░░░░░░░░░░░░░  CODING GIF + TYPING SVG  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ========================================================== -->
+<!--   DARK-TRANSPARENT CODING GIF — BLENDS WITH DARK THEME     -->
+<!-- ========================================================== -->
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" align="right" style="margin-top:-20px"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
 
-<div align="left" style="padding-left:20px">
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&background=00000000&multiline=false&repeat=true&width=520&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Amit+Kumar!;%F0%9F%9A%80+Java+Full+Stack+Developer;%E2%9A%A1+Microservices+%7C+Spring+Boot+%7C+AWS;%F0%9F%8F%97%EF%B8%8F+System+Design+%7C+HLD+%7C+LLD;%F0%9F%A4%96+AI+%7C+Kafka+%7C+Docker+%7C+K8s)](https://git.io/typing-svg)
-
-<br/>
-
-> 🏗️ **Building systems that scale to millions**
-> ☁️ AWS · 🔗 Microservices · 📐 System Design · 🤖 AI Integrations
+<!-- ========================================================== -->
+<!--   TYPING ANIMATION — CENTERED, CLEAN                       -->
+<!-- ========================================================== -->
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AmitKumar1996&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/AmitKumar1996?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/AmitKumar1996?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=550&height=55&lines=%F0%9F%91%8B+Hey%2C+I'm+Amit+Kumar!;%F0%9F%9A%80+Java+Full+Stack+Developer;%E2%9A%A1+Microservices+%7C+Spring+Boot+%7C+AWS;%F0%9F%8F%97%EF%B8%8F+System+Design+%7C+HLD+%7C+LLD;%F0%9F%A4%96+Kafka+%7C+Docker+%7C+Kubernetes)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ========================================================== -->
+<!--   STATS BADGES ROW                                         -->
+<!-- ========================================================== -->
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmitKumar1996&style=for-the-badge&color=64ffda&labelColor=0d1117&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/AmitKumar1996?style=for-the-badge&color=64ffda&labelColor=0d1117&label=FOLLOWERS)](https://github.com/AmitKumar1996?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/AmitKumar1996?style=for-the-badge&color=ffd700&labelColor=0d1117&label=TOTAL+STARS)](https://github.com/AmitKumar1996)
 
-</div>
+<br/>
+
+<!-- ========================================================== -->
+<!--   TAGLINE                                                   -->
+<!-- ========================================================== -->
+
+> 🏗️ **Building systems that scale to millions** &nbsp;·&nbsp; ☁️ AWS &nbsp;·&nbsp; 🔗 Microservices &nbsp;·&nbsp; 📐 System Design &nbsp;·&nbsp; 🤖 AI Integrations
+
+<br/>
 
 </div>
-
-<br clear="both"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -64,12 +76,12 @@ Status      : 🟢 Open to Exciting Opportunities
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="280" style="border-radius:12px"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" style="border-radius:12px" alt="developer gif"/>
 
 <br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solver-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/AmitKumar1996)
-[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-7b42bc?style=flat-square&logo=github)](https://github.com/AmitKumar1996)
+[![Open Source](https://img.shields.io/badge/Open_Source-Contributor-64ffda?style=flat-square&logo=github&logoColor=black)](https://github.com/AmitKumar1996)
 
 </td>
 </tr>
@@ -304,22 +316,22 @@ goal = "Build systems that serve 10M+ users 🚀"
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmitKumar1996&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Amit's+GitHub+Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AmitKumar1996&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Amit's+GitHub+Stats"/>
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar1996&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8&custom_title=Most+Used+Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKumar1996&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=c9d1d9&langs_count=8&custom_title=Most+Used+Languages"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumar1996&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=00d4ff" width="68%" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmitKumar1996&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&sideLabels=c9d1d9&dates=c9d1d9&stroke=64ffda" width="68%" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitKumar1996&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff" width="96%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitKumar1996&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=64ffda&line=64ffda&point=ffffff&area=true&area_color=64ffda" width="96%" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -373,7 +385,7 @@ goal = "Build systems that serve 10M+ users 🚀"
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░  PERSONAL BRAND / QUOTE  ░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░  PHILOSOPHY + FOOTER  ░░░░░░░░░░░░░░░░░░ -->
 
 ## ✨ Philosophy
 
@@ -383,28 +395,24 @@ goal = "Build systems that serve 10M+ users 🚀"
 
 <br/><br/>
 
-> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> &nbsp;
-> *"The best code is the code that scales — write for tomorrow's 10 million users, not just today's 10."*
-> &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+> 💡 *"The best code is the code that scales — write for tomorrow's 10 million users, not just today's 10."*
 >
 > **— Amit Kumar** · Java Full Stack Developer · India 🇮🇳
 
 <br/>
 
 ### 💼 Open To
-![Full-time SDE](https://img.shields.io/badge/Full--time_SDE_Roles-00d4ff?style=for-the-badge&logo=briefcase&logoColor=white)
-![Remote](https://img.shields.io/badge/Remote_Friendly-4CAF50?style=for-the-badge&logo=homeadvisor&logoColor=white)
-![Freelance](https://img.shields.io/badge/Freelance-FF9800?style=for-the-badge&logo=fiverr&logoColor=white)
+![Full-time SDE](https://img.shields.io/badge/Full--time_SDE_Roles-64ffda?style=for-the-badge&logoColor=black)
+![Remote](https://img.shields.io/badge/Remote_Friendly-4CAF50?style=for-the-badge&logoColor=white)
+![Freelance](https://img.shields.io/badge/Freelance-FF9800?style=for-the-badge&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open_Source-7b42bc?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-<!-- ░░░░░░░░░░░░░░░░░░  FOOTER  ░░░░░░░░░░░░░░░░░░ -->
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1a1a2e,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work!&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:112240&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work!&fontSize=16&fontColor=64ffda&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
