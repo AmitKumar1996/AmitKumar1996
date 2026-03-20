@@ -10,7 +10,7 @@
 <!--   DARK-TRANSPARENT CODING GIF — BLENDS WITH DARK THEME     -->
 <!-- ========================================================== -->
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="coding gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="coding gif"/>
 
 <!-- ========================================================== -->
 <!--   TYPING ANIMATION — CENTERED, CLEAN                       -->
@@ -76,7 +76,7 @@ Status      : 🟢 Open to Exciting Opportunities
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="280" style="border-radius:12px" alt="developer gif"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="280" style="border-radius:12px" alt="developer gif"/>
 
 <br/>
 
